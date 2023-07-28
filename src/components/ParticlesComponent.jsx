@@ -65,7 +65,7 @@ const ParticlesComponent = () => {
                 default: "bounce",
               },
               random: false,
-              speed: 3,
+              speed: 1.5,
               straight: false,
             },
             number: {
@@ -73,7 +73,7 @@ const ParticlesComponent = () => {
                 enable: true,
                 area: 800,
               },
-              value: 80,
+              value: 120,
             },
             opacity: {
               value: 0.5,

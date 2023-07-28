@@ -1,6 +1,5 @@
 import React from "react";
 import profilePicture from "../assets/profile-picture.jpg";
-import ParticlesComponent from "../components/ParticlesComponent";
 
 const About = () => {
   return (
@@ -8,7 +7,6 @@ const About = () => {
       className="flex flex-col bg-black w-full h-screen justify-center items-center"
       id="about"
     >
-      <ParticlesComponent />
       <div className="flex px-20 py-20 bg-black w-full h-screen justify-center items-center">
         <div className="grid grid-cols-3 gap-5 px-10 py-10 bg-white bg-opacity-10 backdrop-blur-md rounded-2xl ">
           <div className="flex items-center text-gray-100 bg-clip-text col-span-2">
