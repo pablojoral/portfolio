@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.96bb9bb5.css",
+    "main.js": "/portfolio/static/js/main.9cdad4e2.js",
+    "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/space-background.png": "/portfolio/static/media/space-background.5fd8ad5963b19c0ec4d1.png",
+    "static/media/smashmole-logo.png": "/portfolio/static/media/smashmole-logo.b7b9a115fb9a45ee13a6.png",
+    "static/media/ripio-logo.png": "/portfolio/static/media/ripio-logo.b0425c02b163b3823967.png",
+    "static/media/profile-picture.jpg": "/portfolio/static/media/profile-picture.04907a23956ef3bed3f4.jpg",
+    "static/media/tarjimly-logo.png": "/portfolio/static/media/tarjimly-logo.577806ddab711e7dae91.png",
+    "static/media/sophilabs-logo.jpeg": "/portfolio/static/media/sophilabs-logo.38163ee539cb57c4d814.jpeg",
+    "index.html": "/portfolio/index.html",
+    "main.96bb9bb5.css.map": "/portfolio/static/css/main.96bb9bb5.css.map",
+    "main.9cdad4e2.js.map": "/portfolio/static/js/main.9cdad4e2.js.map",
+    "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.96bb9bb5.css",
+    "static/js/main.9cdad4e2.js"
+  ]
+}
