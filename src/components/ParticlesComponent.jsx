@@ -22,14 +22,12 @@ const ParticlesComponent = () => {
         id="tsparticles"
         init={particlesInit}
         loaded={particlesLoaded}
+        className="absolute top-0 left-0 w-full h-full"
         options={{
+          fullScreen: { enable: false },
           fpsLimit: 120,
           interactivity: {
             events: {
-              onClick: {
-                enable: true,
-                mode: "push",
-              },
               onHover: {
                 enable: true,
                 mode: "repulse",
@@ -37,9 +35,6 @@ const ParticlesComponent = () => {
               resize: true,
             },
             modes: {
-              push: {
-                quantity: 4,
-              },
               repulse: {
                 distance: 200,
                 duration: 0.4,
@@ -48,7 +43,7 @@ const ParticlesComponent = () => {
           },
           particles: {
             color: {
-              opacity: 0.3,
+              opacity: 0.5,
               value: "#ffffff",
             },
             links: {

@@ -4,6 +4,7 @@
   "private": true,
   "homepage": "http://pablojoral.github.io/portfolio",
   "dependencies": {
+    "@tanstack/react-query": "^4.35.3",
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
@@ -11,6 +12,7 @@
     "react-dom": "^18.2.0",
     "react-scripts": "5.0.1",
     "react-tsparticles": "^2.11.0",
+    "swiper": "^10.1.0",
     "three": "^0.154.0",
     "tsparticles-slim": "^2.11.1",
     "web-vitals": "^2.1.4"

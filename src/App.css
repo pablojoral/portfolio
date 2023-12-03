@@ -1,7 +1,3 @@
-.space-background {
-  background-image: url("../public/space-background.png");
-}
-
 @keyframes marquee {
   0% {
     transform: translateX(100%);
@@ -74,4 +70,23 @@
   background-color: #fff;
   z-index: 0;
   /* Add any other styles as per your preference */
+}
+
+.landing-picture {
+  border-radius: 200px;
+}
+
+.landing-picture-wrapper {
+  border-radius: 200px;
+}
+
+.swiper-pagination-bullet {
+  width: 20px;
+  height: 20px;
+  text-align: center;
+  line-height: 20px;
+  font-size: 12px;
+  color: #000;
+  opacity: 1;
+  background: rgba(0, 0, 0, 0.2);
 }
